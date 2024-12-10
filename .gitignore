@@ -1,0 +1,61 @@
+# Java
+*.class
+*.jar
+*.war
+*.ear
+*.db
+
+# Maven
+target/
+!.mvn/wrapper/maven-wrapper.jar
+
+# Gradle
+.gradle/
+build/
+
+# IntelliJ IDEA
+.idea/
+*.iws
+*.iml
+*.ipr
+
+# Eclipse
+.project
+.classpath
+.settings/
+
+# NetBeans
+nbproject/private/
+build/
+nbbuild/
+dist/
+nbdist/
+
+# VS Code
+.vscode/
+
+# Logs
+*.log
+*.log.*
+
+# OS files
+.DS_Store
+Thumbs.db
+*.swp
+
+# Tomcat specific
+/.idea/
+/target/
+/WEB-INF/classes/
+*.bak
+*.tmp
+
+# H2 Database files
+*.mv.db
+*.h2.db
+
+# Other configurations
+*.properties
+*.yml
+*.yaml
+*.log
