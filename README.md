@@ -27,7 +27,7 @@ Dự án được xây dựng với các công nghệ hiện đại, đảm bả
 - Quản lý đơn hàng của cửa hàng
 - Thống kê doanh thu
 ## Kết luận 
-UTESHOP không chỉ là một nơi để mua sách, mà còn là cầu nối tri thức, giúp khách hàng tiếp cận với những cuốn sách giá trị và phong phú. Với hệ thống hiện đại, giao diện thân thiện và dịch vụ chăm sóc khách hàng tận tâm, chúng tôi hy vọng sẽ mang đến cho bạn trải nghiệm mua sắm dễ dàng và đầy cảm hứng. Hãy cùng UTESHOP khám phá thế giới tri thức vô tận!
+UTESHOP không chỉ là một nơi để mua sách, mà còn là cầu nối tri thức, giúp khách hàng tiếp cận với những cuốn sách giá trị và phong phú. Hơn thế nữa với hệ thống hiện đại, giao diện thân thiện và dịch vụ chăm sóc khách hàng tận tâm, chúng tôi hy vọng sẽ mang đến cho bạn trải nghiệm mua sắm dễ dàng và đầy cảm hứng. Hãy cùng UTESHOP khám phá thế giới tri thức vô tận!
 ## Liên hệ 
 Nếu bạn có bất kỳ câu hỏi, ý kiến đóng góp hoặc cần hỗ trợ, đừng ngần ngại liên hệ với chúng tôi. Đội ngũ của UTESHOP luôn sẵn sàng đồng hành cùng bạn:
 
